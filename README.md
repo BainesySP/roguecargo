@@ -1,4 +1,4 @@
-# RogueCargo CLI - Payload Generator
+# RogueCargo CLI - Payload Suggester
 
 ## 🔥 Overview
 RogueCargo is a command-line tool designed to generate and encode various security payloads. It provides SQL Injection, XSS, LFI, Command Injection, and other payloads, allowing users to choose encoding options such as Base64, URL encoding, and Hex.
